@@ -17,4 +17,5 @@ def count_measures(li):
     return count
 
 
+print("AOC Day 1 - Part 1 solution:")
 print(count_measures(l1))

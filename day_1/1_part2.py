@@ -15,5 +15,7 @@ def count_measure_sums(l):
 
     return count
 
+
+print("AOC Day 1 - Part 2 solution:")
 print(count_measure_sums(l1))
 

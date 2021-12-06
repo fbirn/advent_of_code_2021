@@ -23,5 +23,6 @@ def calculate_position(l):
     return multpos
 
 
+print("AOC Day 2 - Part 1 solution:")
 print(calculate_position(data))
 

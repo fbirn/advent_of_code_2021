@@ -26,4 +26,5 @@ def calculate_new_position(l):
     return pos
 
 
+print("AOC Day 2 - Part 2 solution:")
 print(calculate_new_position(data))
