@@ -3,9 +3,11 @@
 # Part 2
 # @Fabio Birnegger 2021
 
+
 with open('day3_input.txt') as f:
     data = [x for x in f.read().split()]
 
+#Calculate oxygen value
 i = 0
 while len(data) > 1:
     zero = 0
